@@ -1,1 +1,1 @@
-# FutureAPI
+# This API is an appointment scheduling application that allows a user to view current appointments for any trainers, available appointment times for a trainer, and schedule a new appointment with a trainer
